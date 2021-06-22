@@ -33,4 +33,4 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 ![Artchitechtes](https://img.shields.io/badge/Architechtes-Open--Source-blue)
-  
+[![Rest Room Discord](https://img.shields.io/discord/855433572957945888?label=Rest%20Room)](https://discord.gg/yNDCMknKfh)
