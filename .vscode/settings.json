@@ -1,0 +1,11 @@
+{
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 60000,
+  "typescript.format.enable": true,
+  "editor.minimap.enabled": true,
+  "editor.formatOnPaste": true,
+  "eslint.format.enable": true,
+  "[typescript]": {
+    "editor.formatOnSave": true
+  }
+}
