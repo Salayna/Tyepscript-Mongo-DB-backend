@@ -1,5 +1,7 @@
+
 import express, { Application } from "express";
 import * as dotenv from "dotenv";
+import "./config/db.config";
 
 dotenv.config();
 const app: Application = express.application;

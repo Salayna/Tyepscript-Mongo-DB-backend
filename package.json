@@ -1,5 +1,5 @@
 {
-  "name": "dev_quest_backend",
+  "name": "@salayna/typescript-mongodb-backend",
   "version": "1.0.0",
   "description": "",
   "main": "dist/server.js",
@@ -32,6 +32,7 @@
   "devDependencies": {
     "@types/cors": "^2.8.10",
     "@types/express": "^4.17.12",
+    "@types/mongoose": "^5.11.97",
     "@typescript-eslint/eslint-plugin": "^4.28.0",
     "@typescript-eslint/parser": "^4.28.0",
     "eslint": "^7.29.0",
